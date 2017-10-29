@@ -1,4 +1,5 @@
 {
+    "qcloudRoot":"./server/",
     "name": "session",
     "script": "app.js",
     "cwd": "./",
